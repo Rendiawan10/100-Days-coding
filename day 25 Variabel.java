@@ -15,4 +15,4 @@ public class Main {
         System.out.println("Nilai Benar: " + benar);
     }// Besok apa lagi yah
     
-}// Kehabisan ide sudah
+}
