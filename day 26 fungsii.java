@@ -1,4 +1,4 @@
-package day26fungsii;
+topackage day26fungsii;
 
 public class Main {
     // Fungsi sederhana yang mengembalikan nilai
