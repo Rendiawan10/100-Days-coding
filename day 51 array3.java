@@ -1,4 +1,4 @@
-package day51array2;
+package day51array2;ya
 import java.util.Scanner;
 public class Main {
     
