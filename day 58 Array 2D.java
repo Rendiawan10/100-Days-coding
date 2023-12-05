@@ -5,7 +5,7 @@ public class day58Array2D {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Masukkan Jumlah Baris: ");
-        int baris = sc.nextByte();
+        int baris = sc.nextInt();
         System.out.print("Masukan Jumlah Kolom: ");
         int kolom = sc.nextInt();
         
