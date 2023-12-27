@@ -16,7 +16,7 @@ public class day80MenghitungTegangan {
         
         tegangan = arus * resistansi;
         
-        System.out.println("Tegangan Dalam Rangkaian Adalah: " + tegangan + " Volt ");;
+        System.out.println("Tegangan Dalam Rangkaian Adalah: " + tegangan + " Volt ");
         
        sc.close();
     }
